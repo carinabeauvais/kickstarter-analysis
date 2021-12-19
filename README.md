@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Kickstarter data trentds
+Kickstarter data trends
